@@ -8,3 +8,7 @@ Go to Path:
  Scripting for profile creation in WAS 
  
  Create a Deployment Manager Profile in WebSphere Application Server Network Deployment Version 8   in youtube
+ 
+ CLI Mode:
+ WAS Admin Tutorial02:Profile Creation on WASND 8.5.5 using CLI ---------Path
+ 
