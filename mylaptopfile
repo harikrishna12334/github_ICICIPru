@@ -4,3 +4,16 @@ Go E:\hari_GIT in Command line
    git config --global user.name "krishna"
    git config --global user.email ""harikrishna1233@gmail.com"
    git clone https://github.com/harikrishna12334/github_ICICIPru.git
+
+   git add -A
+   git commit -m "enter message"
+   git push -u origin master  <---- Incase asking for ""git pull "" --->
+   
+   or 
+   
+   git pull                    <--- enter credentials   username: github1233@gmail.com / 96765632522onE --> 
+   
+   
+   git push -u origin master
+   
+   
