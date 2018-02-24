@@ -1,0 +1,6 @@
+mkdir E:\hari_GIT
+cp https://github.com/harikrishna12334/github_ICICIPru.git
+Go E:\hari_GIT in Command line 
+   git config --global user.name "krishna"
+   git config --global user.email ""harikrishna1233@gmail.com"
+   git clone https://github.com/harikrishna12334/github_ICICIPru.git
