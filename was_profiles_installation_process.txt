@@ -4,3 +4,7 @@ Go to Path:
  
  ./manageprofiles.bat -listProfiles
  ./manageprofiles.bat -delete -profileName Dmgr01
+ 
+ Scripting for profile creation in WAS 
+ 
+ Create a Deployment Manager Profile in WebSphere Application Server Network Deployment Version 8   in youtube
