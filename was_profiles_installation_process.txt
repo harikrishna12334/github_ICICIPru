@@ -12,3 +12,18 @@ Go to Path:
  CLI Mode:
  WAS Admin Tutorial02:Profile Creation on WASND 8.5.5 using CLI ---------Path
  
+ 
+ =============================
+ Profile Creation Process:
+ ============================
+ 
+ E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -listProfiles
+ 
+ E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -create -profileName AppSrv01 -templatePath E:\icici\WAS7\IBM\WebSphere\AppServer\profileTemplates\default\ -nodeName IneoNodeA -hostname DESKTOP-G7QDL1L
+ INSTCONFSUCCESS: Success: Profile OCRM now exists. Please consult E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM\logs\AboutThisProfile.txt for more information about this profile.
+ 
+ ========================
+ 
+ E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -create -profileName OCRM -templatePath E:\icici\WAS7\IBM\WebSphere\AppServer\profileTemplates\default\ -nodeName IneoNodeA -hostname DESKTOP-G7QDL1L
+ 
+ 
