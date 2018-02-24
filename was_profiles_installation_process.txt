@@ -23,7 +23,26 @@ Go to Path:
  INSTCONFSUCCESS: Success: Profile OCRM now exists. Please consult E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM\logs\AboutThisProfile.txt for more information about this profile.
  
  ========================
+ EX:
  
  E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -create -profileName OCRM -templatePath E:\icici\WAS7\IBM\WebSphere\AppServer\profileTemplates\default\ -nodeName IneoNodeA -hostname DESKTOP-G7QDL1L
  
+ ===========================
  
+ DMGR-Profile:
+ 
+  E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -create -profileName DMGR01 -templatePath E:\icici\WAS7\IBM\WebSphere\AppServer\profileTemplates\dmgr\ -cellName DMGRCell -nodeName DMGRNode01 -hostname DESKTOP-G7QDL1L
+  
+ Custom-Profile:
+ 
+  E:\icici\WAS7\IBM\WebSphere\AppServer\bin>manageprofiles.bat -create -profileName Custom01 -templatePath E:\icici\WAS7\IBM\WebSphere\AppServer\profileTemplates\managed\ -cellName Cell01 -nodeName CustomNode01 -hostname DESKTOP-G7QDL1L
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
