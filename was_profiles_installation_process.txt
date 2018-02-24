@@ -1,0 +1,3 @@
+Go to Path: 
+
+ E:\icici\WAS7\IBM\WebSphere\AppServer\bin
