@@ -1,0 +1,24 @@
+************ Start Display Current Environment ************
+Host Operating System is Windows Vista, version 6.2 build 9200
+Java version = J2RE 1.6.0 IBM J9 2.4 Windows Vista amd64-64 jvmwa6460-20080816_22093 (JIT enabled, AOT enabled)
+J9VM - 20080816_022093_LEdSMr
+JIT  - r9_20080721_1330ifx2
+GC   - 20080724_AA, Java Compiler = j9jit24, Java VM name = IBM J9 VM
+was.install.root = E:\icici\WAS7\IBM\WebSphere\AppServer
+user.install.root = E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM
+Java Home = E:\icici\WAS7\IBM\WebSphere\AppServer\java\jre
+ws.ext.dirs = E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\java\\lib;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\classes;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\lib;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\installedChannels;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\lib\\ext;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\web\\help;E:\\icici\\WAS7\\IBM\\WebSphere\\AppServer\\deploytool\\itp\\plugins\\com.ibm.etools.ejbdeploy\\runtime
+Classpath = E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM\properties;E:\icici\WAS7\IBM\WebSphere\AppServer\properties;E:\icici\WAS7\IBM\WebSphere\AppServer\lib\startup.jar;E:\icici\WAS7\IBM\WebSphere\AppServer\lib\bootstrap.jar;E:\icici\WAS7\IBM\WebSphere\AppServer/lib/lmproxy.jar;E:\icici\WAS7\IBM\WebSphere\AppServer/lib/urlprotocols.jar;E:\icici\WAS7\IBM\WebSphere\AppServer\java\lib\tools.jar
+Java Library path = E:\icici\WAS7\IBM\WebSphere\AppServer\java\jre\bin\default;E:\icici\WAS7\IBM\WebSphere\AppServer\java\jre\bin;.;E:\icici\WAS7\IBM\WebSphere\AppServer\bin;E:\icici\WAS7\IBM\WebSphere\AppServer\java\bin;E:\icici\WAS7\IBM\WebSphere\AppServer\java\jre\bin;E:\2018\Oraclexe\app\oracle\product\11.2.0\server\bin;E:\2018\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jdk1.7.0_80\bin;
+Current trace specification = *=info:com.ibm.*=all
+************* End Display Current Environment *************
+[2/24/18 13:36:56:318 IST] 00000000 ManagerAdmin  I   TRAS0017I: The startup trace state is *=info:com.ibm.*=all.
+[2/24/18 13:36:56:336 IST] 00000000 WsServerContr 1   Executing executeUtilityOnWindows with args: E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM\config DESKTOP-G7QDL1LNode01Cell IneoNodeA nodeagent -nodeagent 
+[2/24/18 13:36:56:336 IST] 00000000 WsServerContr 1   Getting WindowsService obj with: nodeagent and E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM\config DESKTOP-G7QDL1LNode01Cell IneoNodeA nodeagent -nodeagent 
+[2/24/18 13:36:56:351 IST] 00000000 WindowsServic >  WindowsService for server nodeagent Entry
+                                 <null>
+[2/24/18 13:36:56:351 IST] 00000000 WindowsServic >  getWindowsServiceNameForServer nodeagent Entry
+                                 <null>
+[2/24/18 13:36:56:351 IST] 00000000 WindowsServic >  getWASServiceCmdPath  Entry
+                                 <null>
+[2/24/18 13:36:56:351 IST] 00000000 WindowsServic 1   In executeCommand, args are: E:\icici\WAS7\IBM\WebSphere\AppServer\bin\WASService.exe -getServiceName nodeagent -profilePath E:\icici\WAS7\IBM\WebSphere\AppServer\profiles\OCRM 
